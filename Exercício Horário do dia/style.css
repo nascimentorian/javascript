@@ -1,0 +1,31 @@
+@charset 'UTF-8';
+body{
+    background: rgb(87, 87, 211);
+    font: normal 15pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.432);
+    
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+div {
+    text-align: center;
+    padding: 8px;
+    height: 200px;
+}
+div#foto {
+    transform: translate(20%, -80%);
+}
